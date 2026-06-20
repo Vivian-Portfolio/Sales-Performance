@@ -124,7 +124,7 @@ Sales-Performance-Dashboard/
 ## 6. Data Model & Schema
 
 ### Dataset Description
-The dataset contains Q1–Q2 2025 sales transaction records for a retail sales business.
+The dataset contains Q1-Q2 2025 sales transaction records for a retail sales business.
 
 ### Data Dictionary
 
