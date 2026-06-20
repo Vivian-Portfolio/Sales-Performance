@@ -147,7 +147,7 @@ The dataset contains Q1-Q2 2025 sales transaction records for a retail sales bus
 | Month | Text | Month of the transaction | January |
 | Day | Text | Day of the week | Tuesday |
 
-> *Date range:* January 2025 - June 2025 (Q1–Q2)
+> *Date range:* January 2025 - June 2025 (Q1-Q2)
 > *Regions covered:* North, South, East, West
 > *Cities covered:* Lagos, Kano, Abuja, Port Harcourt
 > *Sales Representatives:* Chidinma, David, Musa, Peter, Grace, Aisha
@@ -159,7 +159,7 @@ The dataset contains Q1-Q2 2025 sales transaction records for a retail sales bus
 
 ### Analytical Approach
 
-This project used a *dashboard-driven analysis* approach - structuring and summarizing Q1–Q2 2025 sales data using Pivot Tables and Excel formulas to build an interactive dashboard that enables business stakeholders to explore performance across multiple dimensions dynamically.
+This project used a *dashboard-driven analysis* approach - structuring and summarizing Q1-Q2 2025 sales data using Pivot Tables and Excel formulas to build an interactive dashboard that enables business stakeholders to explore performance across multiple dimensions dynamically.
 
 ### Key Metrics Defined
 
