@@ -34,8 +34,11 @@
 ## 1. Project Overview
 
 **Context:** A retail sales business needed a clear view of its sales and profitability performance across Q1-Q2 2025. The business had raw transaction data spread across multiple records but no structured summary to track revenue, profit, top performers, or sales trends.
+
 **Problem Statement:** Without a visual summary, the business could not easily identify which sales reps were performing best, which cities generated the most revenue, which products were top sellers, or how sales trended across months and days.
+
 **Approach:** Cleaned and structured raw sales data in Excel, building a Sales Data sheet and a lookup table. Used Pivot Tables to summarize performance across multiple dimensions including city, channel, category, sales rep, and time period. Designed an interactive dashboard with KPI cards, slicers, and multiple chart types to enable dynamic exploration of the data.
+
 **Outcome:** Delivered a fully interactive Excel Sales Dashboard revealing Total Revenue, Total Profit, Total Orders, Profit Margin, and Average Order Value — alongside visual breakdowns of monthly trends, order by city, quantity sold by product, revenue by category, profit by sales rep, order by channel, and order by day of week.
 
 ---
