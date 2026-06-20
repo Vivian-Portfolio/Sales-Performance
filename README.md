@@ -1,5 +1,5 @@
 # Sales Performance Dashboard — Excel
-> Cleaned and analyzed Q1–Q2 2025 sales data in Excel, building an interactive dashboard with Pivot Tables, slicers, and KPI cards to uncover revenue trends, top products, and performance insights across cities, channels, and sales reps.
+> Cleaned and analyzed Q1-Q2 2025 sales data in Excel, building an interactive dashboard with Pivot Tables, slicers, and KPI cards to uncover revenue trends, top products, and performance insights across cities, channels, and sales reps.
 
 ---
 
