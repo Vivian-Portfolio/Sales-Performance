@@ -130,22 +130,22 @@ The dataset contains Q1-Q2 2025 sales transaction records for a retail sales bus
 
 | Field Name | Data Type | Description | Example Value |
 |------------|-----------|-------------|---------------|
-| Date | Date | Date of the sales transaction | 2025-01-19 |
-| Region | Text | Geographic region of the sale | West |
-| City | Text | City where the sale occurred | Port Harcourt |
-| Customer Type | Text | Type of customer (Retail or Corporate) | Retail |
-| Channel | Text | Sales channel (Online or Store) | Online |
-| Product | Text | Name of the product sold | Office Chair Pro |
-| Category | Text | Product category | Furniture |
-| Unit Price | Integer | Selling price per unit | 85,000 |
-| Quantity | Integer | Number of units sold | 1 |
-| Sales Rep | Text | Name of the sales representative | Chidinma |
-| Cost Price | Integer | Cost price per unit | 68,000 |
-| Revenue | Integer | Total revenue from the transaction | 85,000 |
-| COGS | Integer | Cost of Goods Sold | 68,000 |
-| Profit | Integer | Revenue minus COGS | 17,000 |
-| Month | Text | Month of the transaction | January |
-| Day | Text | Day of the week | Tuesday |
+| `Date` | Date | Date of the sales transaction | 2025-01-19 |
+| `Region` | Text | Geographic region of the sale | West |
+| `City` | Text | City where the sale occurred | Port Harcourt |
+| `Customer Type` | Text | Type of customer (Retail or Corporate) | Retail |
+| `Channel` | Text | Sales channel (Online or Store) | Online |
+| `Product` | Text | Name of the product sold | Office Chair Pro |
+| `Category` | Text | Product category | Furniture |
+| `Unit Price` | Integer | Selling price per unit | 85,000 |
+| `Quantity` | Integer | Number of units sold | 1 |
+|`Sales Rep` | Text | Name of the sales representative | Chidinma |
+| `Cost Price` | Integer | Cost price per unit | 68,000 |
+| `Revenue` | Integer | Total revenue from the transaction | 85,000 |
+| `COGS` | Integer | Cost of Goods Sold | 68,000 |
+| `Profit` | Integer | Revenue minus COGS | 17,000 |
+| `Month` | Text | Month of the transaction | January |
+| `Day` | Text | Day of the week | Tuesday |
 
 > *Date range:* January 2025 - June 2025 (Q1-Q2)
 > *Regions covered:* North, South, East, West
