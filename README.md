@@ -211,13 +211,13 @@ This project used a *dashboard-driven analysis* approach - structuring and summa
 
 | Priority | Recommendation | Based On | Suggested Owner |
 |----------|---------------|----------|-----------------|
-| High | Investigate the sharp revenue drop in May (₦11,100,000 vs February peak of ₦633,440,000) and implement strategies to sustain sales momentum beyond Q1 | Insight 3 — February peaked at ₦633,440,000 with a sharp May decline | Sales / Marketing team |
-| High | Prioritize stock availability for Laptop A13 year-round given its status as the top revenue-generating product at ₦526,080,000 | Insight 4 — Laptop A13 is the single most valuable product | Inventory / Procurement team |
-| High | Develop targeted growth strategies for Port Harcourt to sustain its leading position, while identifying what is holding back Abuja at ₦529,140,000 | Insight 2 — Port Harcourt leads at ₦575,480,000 while Abuja trails | Regional Sales team |
-| Medium | Expand Electronics category offerings given its dominant revenue contribution of ₦1,323,880,000 — nearly double Furniture and Home Appliances combined | Insight 5 — Electronics generates the highest category revenue | Product / Procurement team |
-| Medium | Review underperforming sales representatives and provide targeted coaching or incentives to close the performance gap with top performers | Insight 8 — Significant variation across sales rep performance | Sales Management team |
-| Medium | Develop strategies to grow the Store channel to reduce over-reliance on Online sales | Insight 7 — Online channel dominates over Store | Sales / Marketing team |
-| Low | Investigate high-volume but lower-revenue products like Sofa Classic to determine if pricing adjustments could improve profit margins | Insight 6 — Sofa Classic leads in quantity but Electronics leads in revenue | Pricing / Product team |
+| High | Investigate the sharp revenue drop in May (₦11,100,000 vs February peak of ₦633,440,000) and implement strategies to sustain sales momentum beyond Q1 | Insight 3 - February peaked at ₦633,440,000 with a sharp May decline | Sales / Marketing team |
+| High | Prioritize stock availability for Laptop A13 year-round given its status as the top revenue-generating product at ₦526,080,000 | Insight 4 - Laptop A13 is the single most valuable product | Inventory / Procurement team |
+| High | Develop targeted growth strategies for Port Harcourt to sustain its leading position, while identifying what is holding back Abuja at ₦529,140,000 | Insight 2 - Port Harcourt leads at ₦575,480,000 while Abuja trails | Regional Sales team |
+| Medium | Expand Electronics category offerings given its dominant revenue contribution of ₦1,323,880,000 - nearly double Furniture and Home Appliances combined | Insight 5 - Electronics generates the highest category revenue | Product / Procurement team |
+| Medium | Review underperforming sales representatives and provide targeted coaching or incentives to close the performance gap with top performers | Insight 8 - Significant variation across sales rep performance | Sales Management team |
+| Medium | Develop strategies to grow the Store channel to reduce over-reliance on Online sales | Insight 7 - Online channel dominates over Store | Sales / Marketing team |
+| Low | Investigate high-volume but lower-revenue products like Sofa Classic to determine if pricing adjustments could improve profit margins | Insight 6 - Sofa Classic leads in quantity but Electronics leads in revenue | Pricing / Product team |
 
 ---
 
