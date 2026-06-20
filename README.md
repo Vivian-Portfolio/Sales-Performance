@@ -175,7 +175,7 @@ This project used a *dashboard-driven analysis* approach - structuring and summa
 | Profit by Sales Rep | Total profit grouped by sales representative | Identifies top and low performing sales team members |
 | Orders by Channel | Total orders split by Online vs Store | Compares performance across sales channels |
 | Orders by Day | Total orders grouped by day of week | Reveals which days record the highest sales activity |
-| Monthly Trend | Total revenue and profit grouped by month | Shows performance trajectory across Q1–Q2 |
+| Monthly Trend | Total revenue and profit grouped by month | Shows performance trajectory across Q1-Q2 |
 
 ### Methods Used
 
